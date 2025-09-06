@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/embroidery"]
+	path = wp-content/plugins/embroidery
+	url = git@github.com:ramphor/embroidery.git
